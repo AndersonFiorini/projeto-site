@@ -1,5 +1,7 @@
 notas 0123456789
 ver 001
 alteração
-mudar
+Estudar
 verificar
+002
+001
