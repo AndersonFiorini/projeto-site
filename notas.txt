@@ -1,7 +1,4 @@
 notas 0123456789
-ver 001
-alteração
-Estudar
-verificar
-002
-001
+ver 002
+ver 003
+ver 004
