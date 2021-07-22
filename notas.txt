@@ -1,4 +1,5 @@
 notas 0123456789
-ver 002
-ver 003
-ver 004
+alterando somente notas 001
+0022
+0011
+0033
