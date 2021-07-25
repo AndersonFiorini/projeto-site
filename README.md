@@ -1,5 +1,7 @@
-# projeto-site
+# HTML5 / CSS / JS
  
- Projeto de estudo com Git e GitHub.
- 
- Site desenvolvido durante o curso de HTML5/CSS/JS do prof° **Gustavo Guanabara**.
+ * Site desenvolvido durante o curso de HTML5/CSS/JS do prof° **Gustavo Guanabara**.
+
+ * Projeto simples não responsivo.
+
+ * Projeto de estudo com Git e GitHub.
