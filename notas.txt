@@ -1,11 +1,4 @@
 notas 0123456789
 removido
 ver 005 origin
-aaa
-bbb
-ccc
-001
-003
-xxx
-yyy
-zzz
+ok
