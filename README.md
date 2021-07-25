@@ -4,4 +4,5 @@
 
  * Projeto simples não responsivo.
 
+## Objetivo secundário
  * Projeto de estudo com Git e GitHub.
